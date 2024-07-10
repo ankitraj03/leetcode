@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankitraj03/leetcode/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/ankitraj03/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1293-three-consecutive-odds](https://github.com/ankitraj03/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/ankitraj03/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ankitraj03/leetcode/tree/master/0058-length-of-last-word) |
+| [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitraj03/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitraj03/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
 | ------- |
