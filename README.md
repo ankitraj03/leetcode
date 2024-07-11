@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/ankitraj03/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ankitraj03/leetcode/tree/master/0058-length-of-last-word) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitraj03/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitraj03/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitraj03/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitraj03/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
