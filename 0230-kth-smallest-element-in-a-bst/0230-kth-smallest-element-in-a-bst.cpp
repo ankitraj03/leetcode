@@ -12,20 +12,30 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        int ans=0;
-        vector<int> vect;
-        stack<TreeNode*> st;
-        while(root!=NULL || !st.empty()){
-            while(root!=NULL){
-                st.push(root);
-                root=root->left;
+        stack<TreeNode*> s;
+        TreeNode* node=root;
+
+        int i=1;
+        long long int x=LLONG_MAX;
+
+        while(s.size()>0 or node){
+            if(node){
+                s.push(node);
+                node=node->left;
             }
-            root=st.top();
-            st.pop();
-            vect.push_back(root->val);
-            root=root->right;
-        } 
-        ans=vect[k-1];
-        return ans;
+
+            else{
+                TreeNode* temp=s.top();
+                s.pop();
+                if(i==k) return temp->val;
+                if(x!=LLONG_MAX){
+                    x=temp->val;
+                }
+                i++;
+                node=temp->right;
+            }
+            
+        }
+        return -1;
     }
 };
