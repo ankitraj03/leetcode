@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
+| [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/ankitraj03/leetcode/tree/master/1642-water-bottles) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ankitraj03/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2645-pass-the-pillow](https://github.com/ankitraj03/leetcode/tree/master/2645-pass-the-pillow) |
@@ -255,9 +256,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ankitraj03/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/ankitraj03/leetcode/tree/master/0338-counting-bits) |
+| [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankitraj03/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
