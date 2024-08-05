@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/ankitraj03/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ankitraj03/leetcode/tree/master/0058-length-of-last-word) |
+| [0858-masking-personal-information](https://github.com/ankitraj03/leetcode/tree/master/0858-masking-personal-information) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitraj03/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankitraj03/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
