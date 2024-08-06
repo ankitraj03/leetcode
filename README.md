@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/ankitraj03/leetcode/tree/master/1642-water-bottles) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ankitraj03/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ankitraj03/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ankitraj03/leetcode/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
