@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/ankitraj03/leetcode/tree/master/1642-water-bottles) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ankitraj03/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2645-pass-the-pillow](https://github.com/ankitraj03/leetcode/tree/master/2645-pass-the-pillow) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankitraj03/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Combinatorics
 |  |
@@ -292,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
