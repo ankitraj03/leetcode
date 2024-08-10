@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ankitraj03/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ankitraj03/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/ankitraj03/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ankitraj03/leetcode/tree/master/0217-contains-duplicate) |
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ankitraj03/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/ankitraj03/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ankitraj03/leetcode/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0747-min-cost-climbing-stairs) |
