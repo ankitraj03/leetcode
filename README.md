@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankitraj03/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ankitraj03/leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ankitraj03/leetcode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/ankitraj03/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ankitraj03/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ankitraj03/leetcode/tree/master/0169-majority-element) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ankitraj03/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ankitraj03/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ankitraj03/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankitraj03/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ankitraj03/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/ankitraj03/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ankitraj03/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ankitraj03/leetcode/tree/master/0338-counting-bits) |
