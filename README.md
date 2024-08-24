@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankitraj03/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ankitraj03/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ankitraj03/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/ankitraj03/leetcode/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankitraj03/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankitraj03/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ankitraj03/leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitraj03/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/ankitraj03/leetcode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/ankitraj03/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
