@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankitraj03/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ankitraj03/leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitraj03/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/ankitraj03/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankitraj03/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankitraj03/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/ankitraj03/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ankitraj03/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitraj03/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
