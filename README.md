@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ankitraj03/leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitraj03/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ankitraj03/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankitraj03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitraj03/leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ankitraj03/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ankitraj03/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ankitraj03/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitraj03/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankitraj03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitraj03/leetcode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitraj03/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0858-masking-personal-information](https://github.com/ankitraj03/leetcode/tree/master/0858-masking-personal-information) |
