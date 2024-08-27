@@ -1,33 +1,37 @@
 class Solution {
 public:
     bool isvowel(char c) {
-        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
-            return 1;
-        return 0;
-    }
-    int maxVowels(string s, int k) {
-        int ans = 0;
-        int count = 0;
+    return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
+}
 
-        for (int i = 0; i < k; i++) {
-            if (isvowel(s[i]))
-                ans++;
+int maxVowels(string s, int k) {
+    int maxVowelsCount = 0, currentVowelsCount = 0;
+
+    // Initial count of vowels in the first k characters
+    for (int i = 0; i < k; i++) {
+        if (isvowel(s[i])) {
+            currentVowelsCount++;
         }
-        int i = 0, j = k;
-        count = ans;
-        while (j < s.size()) {
-            if (isvowel(s[j])) {
-                if (isvowel(s[i]) == 0)
-                    count++;
-            }
-            else {
-                if (isvowel(s[i]) == 1)
-                    count--;
-            }
-            i++;
-            j++;
-        ans = max(ans, count);
-        }
-    return ans;
     }
+    
+    // Set the initial max count
+    maxVowelsCount = currentVowelsCount;
+
+    // Slide the window across the string
+    for (int i = k; i < s.size(); i++) {
+        // Add the new character
+        if (isvowel(s[i])) {
+            currentVowelsCount++;
+        }
+        // Remove the old character
+        if (isvowel(s[i - k])) {
+            currentVowelsCount--;
+        }
+        // Update the max count
+        maxVowelsCount = max(maxVowelsCount, currentVowelsCount);
+    }
+
+    return maxVowelsCount;
+}
+
 };
