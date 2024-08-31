@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankitraj03/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/ankitraj03/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ankitraj03/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
@@ -364,4 +365,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitraj03/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/ankitraj03/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
