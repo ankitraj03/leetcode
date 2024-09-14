@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-        unordered_map<char, int> mp1;
-        unordered_map<char, int> mp2;
+        map<char, int> mp1;
+        map<char, int> mp2;
 
         for (auto& i : word1)
             mp1[i]++;
@@ -10,9 +10,15 @@ public:
         for (auto& i : word2)
             mp2[i]++;
 
-        for (auto& i : mp1) {
-            if (mp2.find(i.first) == mp2.end())
+        auto it1 = mp1.begin();
+        auto it2 = mp2.begin();
+
+        while (it1 != mp1.end() && it2 != mp2.end()) {
+            if (it1->first != it2->first)
                 return false;
+
+            it1++;
+            it2++;
         }
 
         vector<int> freq1, freq2;
