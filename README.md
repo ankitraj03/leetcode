@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankitraj03/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitraj03/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitraj03/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitraj03/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankitraj03/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -402,8 +403,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
