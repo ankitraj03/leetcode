@@ -409,10 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/ankitraj03/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/ankitraj03/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -421,4 +423,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/ankitraj03/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
