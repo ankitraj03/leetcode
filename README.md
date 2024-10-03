@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ankitraj03/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ankitraj03/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankitraj03/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/ankitraj03/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankitraj03/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankitraj03/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ankitraj03/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ankitraj03/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankitraj03/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/ankitraj03/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankitraj03/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitraj03/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitraj03/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1694-make-sum-divisible-by-p](https://github.com/ankitraj03/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/ankitraj03/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Trie
 |  |
