@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankitraj03/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitraj03/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1972-rotating-the-box](https://github.com/ankitraj03/leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ankitraj03/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitraj03/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ankitraj03/leetcode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ankitraj03/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/ankitraj03/leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ankitraj03/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ankitraj03/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitraj03/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ankitraj03/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankitraj03/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/ankitraj03/leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ankitraj03/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitraj03/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Linked List
