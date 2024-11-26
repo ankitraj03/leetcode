@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankitraj03/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankitraj03/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankitraj03/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankitraj03/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankitraj03/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankitraj03/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankitraj03/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ankitraj03/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
