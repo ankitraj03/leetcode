@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ankitraj03/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2645-pass-the-pillow](https://github.com/ankitraj03/leetcode/tree/master/2645-pass-the-pillow) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankitraj03/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankitraj03/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/ankitraj03/leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankitraj03/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankitraj03/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankitraj03/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ankitraj03/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ankitraj03/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ankitraj03/leetcode/tree/master/0389-find-the-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankitraj03/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ankitraj03/leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/ankitraj03/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankitraj03/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
