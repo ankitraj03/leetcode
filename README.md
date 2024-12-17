@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankitraj03/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/ankitraj03/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankitraj03/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2470-removing-stars-from-a-string](https://github.com/ankitraj03/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ankitraj03/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankitraj03/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankitraj03/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/ankitraj03/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitraj03/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankitraj03/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitraj03/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitraj03/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitraj03/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ankitraj03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitraj03/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitraj03/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Geometry
 |  |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ankitraj03/leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/ankitraj03/leetcode/tree/master/0948-sort-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankitraj03/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankitraj03/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
