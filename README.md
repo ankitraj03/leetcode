@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
