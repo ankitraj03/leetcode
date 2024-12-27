@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankitraj03/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ankitraj03/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2902-max-pair-sum-in-an-array](https://github.com/ankitraj03/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/ankitraj03/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankitraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankitraj03/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitraj03/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
+| [2902-max-pair-sum-in-an-array](https://github.com/ankitraj03/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitraj03/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankitraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
