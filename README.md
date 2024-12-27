@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/ankitraj03/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ankitraj03/leetcode/tree/master/0948-sort-an-array) |
+| [1063-best-sightseeing-pair](https://github.com/ankitraj03/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/ankitraj03/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ankitraj03/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/ankitraj03/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankitraj03/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
