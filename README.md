@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ankitraj03/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitraj03/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ankitraj03/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankitraj03/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ankitraj03/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankitraj03/leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ankitraj03/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ankitraj03/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ankitraj03/leetcode/tree/master/0389-find-the-difference) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ankitraj03/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankitraj03/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankitraj03/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search Tree
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ankitraj03/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
