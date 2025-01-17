@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankitraj03/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ankitraj03/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2792-neighboring-bitwise-xor](https://github.com/ankitraj03/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2902-max-pair-sum-in-an-array](https://github.com/ankitraj03/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/ankitraj03/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankitraj03/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ankitraj03/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ankitraj03/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ankitraj03/leetcode/tree/master/0389-find-the-difference) |
+| [2792-neighboring-bitwise-xor](https://github.com/ankitraj03/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankitraj03/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search Tree
 |  |
