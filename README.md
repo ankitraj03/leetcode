@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/ankitraj03/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ankitraj03/leetcode/tree/master/0948-sort-an-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/ankitraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/ankitraj03/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/ankitraj03/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitraj03/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ankitraj03/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitraj03/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/ankitraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -541,11 +543,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ankitraj03/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitraj03/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/ankitraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitraj03/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitraj03/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/ankitraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankitraj03/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ankitraj03/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/ankitraj03/leetcode/tree/master/1833-find-the-highest-altitude) |
