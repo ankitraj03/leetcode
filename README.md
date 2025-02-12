@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ankitraj03/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankitraj03/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitraj03/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankitraj03/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ankitraj03/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankitraj03/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitraj03/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankitraj03/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankitraj03/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitraj03/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitraj03/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankitraj03/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ankitraj03/leetcode/tree/master/2502-sort-the-people) |
 | [2902-max-pair-sum-in-an-array](https://github.com/ankitraj03/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitraj03/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ankitraj03/leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/ankitraj03/leetcode/tree/master/0948-sort-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ankitraj03/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankitraj03/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankitraj03/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankitraj03/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
