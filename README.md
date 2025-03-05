@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ankitraj03/leetcode/tree/master/1642-water-bottles) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ankitraj03/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2645-pass-the-pillow](https://github.com/ankitraj03/leetcode/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ankitraj03/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankitraj03/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankitraj03/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
