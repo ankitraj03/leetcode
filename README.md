@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/ankitraj03/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankitraj03/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/ankitraj03/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankitraj03/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankitraj03/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
