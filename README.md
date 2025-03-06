@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ankitraj03/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ankitraj03/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ankitraj03/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ankitraj03/leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitraj03/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitraj03/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/ankitraj03/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ankitraj03/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitraj03/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ankitraj03/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ankitraj03/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Data Stream
