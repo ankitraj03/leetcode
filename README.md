@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ankitraj03/leetcode/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitraj03/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0858-masking-personal-information](https://github.com/ankitraj03/leetcode/tree/master/0858-masking-personal-information) |
+| [0889-buddy-strings](https://github.com/ankitraj03/leetcode/tree/master/0889-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitraj03/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitraj03/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankitraj03/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ankitraj03/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ankitraj03/leetcode/tree/master/0409-longest-palindrome) |
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
+| [0889-buddy-strings](https://github.com/ankitraj03/leetcode/tree/master/0889-buddy-strings) |
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/ankitraj03/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ankitraj03/leetcode/tree/master/1319-unique-number-of-occurrences) |
