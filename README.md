@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankitraj03/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ankitraj03/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitraj03/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitraj03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/ankitraj03/leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/ankitraj03/leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankitraj03/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ankitraj03/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitraj03/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitraj03/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitraj03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ankitraj03/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ankitraj03/leetcode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitraj03/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankitraj03/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankitraj03/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitraj03/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitraj03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ankitraj03/leetcode/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/ankitraj03/leetcode/tree/master/0948-sort-an-array) |
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitraj03/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ankitraj03/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitraj03/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitraj03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ankitraj03/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankitraj03/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ankitraj03/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ankitraj03/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitraj03/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitraj03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ankitraj03/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitraj03/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ankitraj03/leetcode/tree/master/0389-find-the-difference) |
