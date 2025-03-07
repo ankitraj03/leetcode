@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ankitraj03/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ankitraj03/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ankitraj03/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/ankitraj03/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ankitraj03/leetcode/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitraj03/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0858-masking-personal-information](https://github.com/ankitraj03/leetcode/tree/master/0858-masking-personal-information) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankitraj03/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ankitraj03/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/ankitraj03/leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/ankitraj03/leetcode/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitraj03/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ankitraj03/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ankitraj03/leetcode/tree/master/0735-asteroid-collision) |
 | [1195-distribute-candies-to-people](https://github.com/ankitraj03/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/ankitraj03/leetcode/tree/master/1642-water-bottles) |
