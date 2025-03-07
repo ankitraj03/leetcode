@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitraj03/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1195-distribute-candies-to-people](https://github.com/ankitraj03/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/ankitraj03/leetcode/tree/master/1642-water-bottles) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ankitraj03/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ankitraj03/leetcode/tree/master/0735-asteroid-collision) |
+| [1195-distribute-candies-to-people](https://github.com/ankitraj03/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/ankitraj03/leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankitraj03/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankitraj03/leetcode/tree/master/2232-adding-spaces-to-a-string) |
