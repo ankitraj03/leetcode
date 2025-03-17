@@ -10,17 +10,16 @@
  */
 class Solution {
 public:
-   ListNode* reverseList(ListNode* head) {
-    ListNode* prev=NULL;
-    ListNode* next=NULL;
-    ListNode* temp=head;
-    while(temp!=NULL){
-        next=temp->next;
-        temp->next=prev;
-        prev=temp;
-        temp=next;
-    }
-        head=prev;
-        return head;
+    ListNode* reverseList(ListNode* head) {
+        ListNode* temp=head;
+        ListNode* prev=NULL;
+        ListNode* next=NULL;
+        while(temp!=NULL){
+            next=temp->next;
+            temp->next=prev;
+            prev=temp;
+            temp=next;
+        }
+        return prev;
     }
 };
