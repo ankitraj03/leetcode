@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitraj03/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankitraj03/leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ankitraj03/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ankitraj03/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankitraj03/leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/ankitraj03/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitraj03/leetcode/tree/master/0064-minimum-path-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankitraj03/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/ankitraj03/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitraj03/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ankitraj03/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankitraj03/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ankitraj03/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ankitraj03/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ankitraj03/leetcode/tree/master/0069-sqrtx) |
