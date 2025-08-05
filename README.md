@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ankitraj03/leetcode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/ankitraj03/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ankitraj03/leetcode/tree/master/0948-sort-an-array) |
+| [1039-find-the-town-judge](https://github.com/ankitraj03/leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitraj03/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/ankitraj03/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [0889-buddy-strings](https://github.com/ankitraj03/leetcode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/ankitraj03/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/ankitraj03/leetcode/tree/master/1039-find-the-town-judge) |
 | [1169-largest-values-from-labels](https://github.com/ankitraj03/leetcode/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/ankitraj03/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ankitraj03/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -754,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ankitraj03/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/ankitraj03/leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
