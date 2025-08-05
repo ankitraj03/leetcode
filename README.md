@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ankitraj03/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/ankitraj03/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ankitraj03/leetcode/tree/master/0739-daily-temperatures) |
+| [0933-increasing-order-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ankitraj03/leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitraj03/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ankitraj03/leetcode/tree/master/1720-crawler-log-folder) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/ankitraj03/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ankitraj03/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ankitraj03/leetcode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankitraj03/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankitraj03/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ankitraj03/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Greedy
 |  |
 | ------- |
