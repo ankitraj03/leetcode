@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/ankitraj03/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/ankitraj03/leetcode/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/ankitraj03/leetcode/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/ankitraj03/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ankitraj03/leetcode/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/ankitraj03/leetcode/tree/master/1039-find-the-town-judge) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ankitraj03/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/ankitraj03/leetcode/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitraj03/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0909-stone-game](https://github.com/ankitraj03/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitraj03/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ankitraj03/leetcode/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/ankitraj03/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankitraj03/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/ankitraj03/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/ankitraj03/leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/ankitraj03/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ankitraj03/leetcode/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/ankitraj03/leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/ankitraj03/leetcode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
