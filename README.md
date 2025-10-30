@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ankitraj03/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ankitraj03/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankitraj03/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ankitraj03/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankitraj03/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ankitraj03/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitraj03/leetcode/tree/master/0064-minimum-path-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ankitraj03/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ankitraj03/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ankitraj03/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitraj03/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ankitraj03/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankitraj03/leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/ankitraj03/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ankitraj03/leetcode/tree/master/0735-asteroid-collision) |
 | [1195-distribute-candies-to-people](https://github.com/ankitraj03/leetcode/tree/master/1195-distribute-candies-to-people) |
